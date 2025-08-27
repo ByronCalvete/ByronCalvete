@@ -1,11 +1,11 @@
-## Hi everyone, I'm Byron Calvete ⚡️
+## Hi everyone, I'm Byron Calvete 🤓
 
-#### *Software Engineer* 👨🏻‍💻  *and food taster* 🥑 
+#### *Software Engineer and obsessed with product management and customer experience* 📱 
 
 - I’m currently working on Web and Cloud Technologies with Python, JavaScript ecosystem, and Java 🛠
 
-- Coding for fun in Kotlin, and Golang <img src="https://user-images.githubusercontent.com/37782247/123088402-10ae2680-d3fc-11eb-9358-c0ada5b87b83.png" width="35" />
+- Coding for fun in Kotlin, and Golang 🦾
 
-- Strongly interested in Cloud ☁️
+- Strongly interested in Cloud and Web Performance ☁️⚡️
 
 Let's code 🎒
